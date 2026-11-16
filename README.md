@@ -14,10 +14,11 @@ Currently at [Kite Metric](https://kitemetric.com) on client work in AI/LLM, fin
 #### Selected work
 
 - **[Sayso](https://sayso.trinhvo.com)** — learn English from the YouTube videos you actually watch. Live.
+- **[TokenPet](https://github.com/VoTuTrinh/tokenpet)** — a notch monitor for Claude Code and Codex on macOS: shows the RAM your coding agents and their forgotten dev servers hold, frees it in a click, and keeps quota in view. Native Swift, about 40 MB.
 - **[pentest-flow](https://github.com/VoTuTrinh/pentest-flow)** — visual, AI-augmented pentest workflow runner aligned to OWASP Top 10. Python, FastAPI, React.
 
 Most of my production work is client code and isn't public.
 
 #### Stack
 
-<samp>TypeScript · React · Next.js · Angular · NestJS · Python · FastAPI · Spring Boot · PostgreSQL · Supabase · Docker · OpenAI / Anthropic / Gemini · RAG · agents</samp>
+<samp>TypeScript · React · Next.js · Angular · NestJS · Python · FastAPI · Spring Boot · Swift / SwiftUI · PostgreSQL · Supabase · Docker · OpenAI / Anthropic / Gemini · RAG · agents</samp>
